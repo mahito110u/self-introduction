@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my self-introduction　page
+Hello.This page was created for practicing API and github.  
+On this page, I would like to introduce myself.  
+Since it is poor English using Google Translate, I think that there are some places where the meaning is not understood, but please forgive me.
 
-You can use the [editor on GitHub](https://github.com/mahito110u/self-introduction/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Basic information
 ```markdown
-Syntax highlighted code block
+My name is Mahito.I'm 20 years old.  
+I was born and grew up in Japan.
+
 
 # Header 1
 ## Header 2
